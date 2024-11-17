@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/kamilg/vsc_cpp/Isorter/build",
+  "command": "/usr/bin/clang++-18 -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtCharts -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -g -std=gnu++23 -fPIC -o CMakeFiles/sorting_algorithms.dir/src/main.cpp.o -c /home/kamilg/vsc_cpp/Isorter/src/main.cpp",
+  "file": "/home/kamilg/vsc_cpp/Isorter/src/main.cpp",
+  "output": "CMakeFiles/sorting_algorithms.dir/src/main.cpp.o"
+}
+]

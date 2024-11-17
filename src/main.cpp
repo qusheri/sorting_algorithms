@@ -5,8 +5,6 @@
 #include "MergeSort.h"
 #include "QuickSort.h"
 
-
 int main(){
-    std::cout << 52 << std::endl;
     TestAllMethods();
 }
